@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Redscreen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2251ec3e1decb84f3ec92454e17b71335149dda9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb4358c8677394bcf517100e83312fb29032b65d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Redscreen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Redscreen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
