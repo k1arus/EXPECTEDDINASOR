@@ -6,7 +6,6 @@ C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\bin\Deb
 C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\obj\Debug\net10.0-windows\MainWindow.g.cs
 C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\obj\Debug\net10.0-windows\App.g.cs
 C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\obj\Debug\net10.0-windows\Redscreen_MarkupCompile.cache
-C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\obj\Debug\net10.0-windows\Redscreen_MarkupCompile.lref
 C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\obj\Debug\net10.0-windows\MainWindow.baml
 C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\obj\Debug\net10.0-windows\Redscreen.g.resources
 C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\obj\Debug\net10.0-windows\Redscreen.GeneratedMSBuildEditorConfig.editorconfig
