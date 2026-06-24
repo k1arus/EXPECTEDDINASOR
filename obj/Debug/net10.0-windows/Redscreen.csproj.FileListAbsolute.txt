@@ -39,3 +39,5 @@ C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\bin\Deb
 C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\bin\Debug\net10.0-windows\runtimes\unix\lib\net10.0\System.IO.Ports.dll
 C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.IO.Ports.dll
 C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\obj\Debug\net10.0-windows\Redscreen.csproj.Up2Date
+C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\obj\Debug\net10.0-windows\DisplayRedscreen.baml
+C:\Users\末吉　郷至\Desktop\schoomy_siuuuuufooooooo_micon\Redscreen\obj\Debug\net10.0-windows\DisplayRedscreen.g.cs
