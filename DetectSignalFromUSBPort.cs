@@ -1,4 +1,5 @@
 using System;
+using System.IO;
 using System.IO.Ports;
 
 namespace Redscreen;
@@ -44,6 +45,7 @@ public class DetectSignalFromUSBPort : IDisposable
     private void OnDataReceived(
         object sender,
         SerialDataReceivedEventArgs e)
+        
     {
         try
         {
@@ -51,7 +53,7 @@ public class DetectSignalFromUSBPort : IDisposable
                 serialPort
                     .ReadLine()
                     .Trim();
-
+                    
             if (line == "Success")
             {
                 SuccessReceived?.Invoke();
